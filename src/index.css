@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.container{
+    @apply max-w-6xl mx-auto px-2
+}
+
+.btn{
+    @apply rounded-md px-4 py-2 font-bold tracking-wider 
+}
+
+h1{
+    font-family: 'Space Grotesk', sans-serif;
+    @apply text-xl md:text-3xl font-semibold tracking-widest mb-2 md:mb-4
+}
+
+.test-card{
+    border-radius: 29px 29px 29px 29px;
+-webkit-border-radius: 29px 29px 29px 29px;
+-moz-border-radius: 29px 29px 29px 29px;
+}
