@@ -1,4 +1,4 @@
-#demo of this website
+# Demo of this website
 [texhXpert](https://animated-bubblegum-5992a1.netlify.app/)
 
 # Getting Started with Create React App
